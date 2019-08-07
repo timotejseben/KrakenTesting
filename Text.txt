@@ -1,1 +1,1 @@
-Toto je nový text vytvorený v Testin branchy.
+Toto je nový text vytvorený v Testing branchy.
